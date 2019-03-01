@@ -9,5 +9,4 @@ Usage
 ```bash
 $ python mohr.py
 ```
-For now, only on python2. <br>
-Soon it will be update to python3.
+updated to python3.
